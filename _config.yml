@@ -1,2 +1,7 @@
-title: Spex-SM 2024
+title: Spex-SM
+email: info@spexsm.se
+description: Svenska mästerskapen i studentspex
+
+url: "https://spexsm.se" 
+
 theme: jekyll-theme-tactile
